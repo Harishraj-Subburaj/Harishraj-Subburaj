@@ -12,4 +12,5 @@ Version Control: Git, GitHub
 
 🌱 Currently Learning:
 CI/CD projects using AWS, Kubernetes, Ansible, Terraform, and Jenkins,Monitoring tools in DevOps
+
 SC-300 Microsoft Certified: Identity and Access Administrator Associate
